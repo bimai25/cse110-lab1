@@ -1,6 +1,7 @@
 # Brandon Imai's User Page
 **Welcome _everyone!_** This is my user page for **CSE 110** for the _Spring 2023_ quarter. I am ~~excited~~ ~~pumped~~ stoked to get going!
 ## A Little About Me
+![](selfportrait.jpeg)
 My name is **Brandon Imai** and I am a second-year computer science major at ERC. I enjoy sports and am a big fan of the Los Angeles Angels, Anaheim Ducks, and Los Angeles Clippers. I also enjoy auto racing and watch Formula 1, Formula E, and Indycar. I am a big fan of Star Wars and try as much as I can to live by Yoda's wisdom:
 > Do or do not, there is not try.
 
